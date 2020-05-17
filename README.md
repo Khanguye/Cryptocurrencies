@@ -27,7 +27,7 @@ PCA (Principal Component Analysis): The cryptocurrencies are very similar to eac
 
 ![pic4.png](Pic4.png)
 
-![pic5.png](Pic5.png)
+![pic5.png](pic5.png)
 
 **Conclusion**
 
