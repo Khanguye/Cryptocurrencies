@@ -12,8 +12,9 @@ the immense universe of cryptocurrencies on the trading market and how cryptocur
 4. Create some plots and data tables to present your results.
 
 **Source Codes**
-[Crypto_Currency.ipynb](Crypto_Currency.ipynb)
-[crypto_data.csv](crypto_data.csv)
+
+1. [Crypto_Currency.ipynb](Crypto_Currency.ipynb)
+2. [crypto_data.csv](crypto_data.csv)
 
 **5 Clusters**
 
