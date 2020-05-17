@@ -31,4 +31,4 @@ PCA (Principal Component Analysis): The cryptocurrencies are very similar to eac
 
 **Conclusion**
 
-There are some cryptocurrencies standout the common group. We need to do more research to find out the popularity, infrasture, security of each currency clusters before we make the decision for a new investment product. However, this analysis gives a great picture of the classification of the cryptocurrencies on the trading market.
+Some cryptocurrencies standout from the cluster groups. We need to do more research to find out the popularity, infrastructure, security of each clusters before making the decision on a new investment product. However, this analysis gives a great picture of the classification of the cryptocurrencies on the trading market.
